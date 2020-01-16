@@ -1,0 +1,3 @@
+packer-builder-vsphere-iso.*
+variables.json
+packer_cache/

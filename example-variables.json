@@ -1,0 +1,18 @@
+{
+    "vsphere-server": "",
+    "vsphere-user": "",
+    "vsphere-password": "",
+      
+    "vsphere-datacenter": "",
+    "vsphere-cluster": "",
+    "vsphere-network": "VM Network",
+    "vsphere-datastore": "store1",
+      
+    "vm-name": "CentOS7-Template",
+    "vm-cpu-num": "2",
+    "vm-cpu-cores": "2",
+    "vm-mem-size": "1024",
+    "vm-disk-size": "25600",
+      
+    "iso_url": "[store1] ISO/CentOS-7-x86_64-DVD-1908.iso"
+}
