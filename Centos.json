@@ -40,7 +40,7 @@
       "boot_order": "disk,cdrom,floppy",
     
       "ssh_username": "root",
-      "ssh_password": "server",
+      "ssh_password": "@server@",
     
       "CPUs": "{{user `vm-cpu-num`}}",
       "cpu_cores": "{{user `vm-cpu-cores`}}",
